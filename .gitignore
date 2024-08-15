@@ -1,0 +1,10 @@
+/.idea/
+/__pycache__/
+/env/
+/db/
+/build/
+/.command*
+/.env
+/_build*
+/.vscode*
+*my_test
